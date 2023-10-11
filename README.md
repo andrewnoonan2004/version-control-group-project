@@ -7,7 +7,7 @@
 3) b) If the user is not wearing a hat, the program personally suggests them a few headwear options.
    
 ### Installation and Use:
-1) Please read and understand the LISENCE.md as this project operates under the GNU AGPLv3
+1) Please read and understand the LICENSE.md as this project operates under the GNU AGPLv3
 2) Log into JupyterHub
 3) Open the terminal
 4) Clone repository with the command 'git clone https://github.com/andrewnoonan2004/version-control-group-project.git'
