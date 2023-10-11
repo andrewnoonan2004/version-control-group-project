@@ -18,7 +18,7 @@ git clone https://github.com/andrewnoonan2004/version-control-group-project.git
 
 ### Contribution:
 1) Please read the CODE-OF-CONDUCT.md located in the repository as these rules must be followed
-2) Fork the repository (https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+2) Fork the repository [Instructions](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 3) Log into JupyterHub
 4) Open the terminal
 5) Clone YOUR repository with the command 
