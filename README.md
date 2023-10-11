@@ -1,3 +1,7 @@
 ## Group Members: Andrew Noonan, Haiden Hunter
-### Goal of our program
-take the name from the user, and ask if they have a hat. If they did have a hat, we would complement them on their specific hat. If they didn't, we would suggest some hats.
+
+### Program Functionality
+    1) Get the user's name.
+    2) Ask the user if they are wearing a hat.
+    3)  a) If the user is wearing a hat, the program complements them of their specific hat.
+        b) If the user is not wearing a hat, the program personally suggests them a few headwear options.
