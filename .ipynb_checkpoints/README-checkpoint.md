@@ -25,3 +25,4 @@
     // 'git commit -m "message" '
     // 'git push'
 8) Make a pull request to merge into the main branch (https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+9) Thank you for contributing to your open-source software! There is a 100% chance that we will approve your merge request. The last sentence was 100% a lie.
