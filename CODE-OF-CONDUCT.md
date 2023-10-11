@@ -1,5 +1,5 @@
 
-# Contributor Covenant Code of Conduct
+# Version Control Group Project Code of Conduct
 
 ## Our Pledge
 
